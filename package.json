@@ -28,7 +28,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/rjsf-team/react-jsonschema-form",
   "devDependencies": {
-    "husky": "^3.1.0"
+    "husky": "^6.0.0"
   },
   "husky": {
     "hooks": {
